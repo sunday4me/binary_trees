@@ -204,6 +204,6 @@ typedef struct binary_tree_s heap_t;
     <ul>
     <li><a href="https://www.github.com/sunday4me">Github</a></li>
     <li><a href="https://www.twitter.com/sunnet4me">Twitter</a></li>
-    <li><a href="mailto:sunday4me@gmail.com">e-mail</a></li>
+    <li><a href="mailto:sunday4me@gmail.com">E-mail</a></li>
     </ul>
 </details>
